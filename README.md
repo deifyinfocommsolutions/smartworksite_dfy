@@ -1,2 +1,1 @@
-# smartworksite_dfy
-SmartWork Website for iBeads
+SmartWork Website for ibeads
